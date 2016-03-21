@@ -1,10 +1,10 @@
 wordcolor
 ========
-[![Build Status](https://img.shields.io/travis/lichunqiang/wordcolor.svg?style=flat-square)](http://travis-ci.org/lichunqiang/wordcolor)
+[![Build Status](https://img.shields.io/travis/lichunqiang/wordcolor.php.svg?style=flat-square)](http://travis-ci.org/lichunqiang/wordcolor.php)
 [![version](https://img.shields.io/packagist/v/light/wordcolor.svg?style=flat-square)](https://packagist.org/packages/light/wordcolor)
 [![Download](https://img.shields.io/packagist/dt/light/wordcolor.svg?style=flat-square)](https://packagist.org/packages/light/wordcolor)
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/lichunqiang/wordcolor.svg?style=flat-square)](https://scrutinizer-ci.com/g/lichunqiang/wordcolor)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/lichunqiang/wordcolor.svg?style=flat-square)](https://scrutinizer-ci.com/g/lichunqiang/wordcolor)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/lichunqiang/wordcolor.php.svg?style=flat-square)](https://scrutinizer-ci.com/g/lichunqiang/wordcolor.php)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/lichunqiang/wordcolor.php.svg?style=flat-square)](https://scrutinizer-ci.com/g/lichunqiang/wordcolor.php)
 [![Contact](https://img.shields.io/badge/weibo-@chunqiang-blue.svg?style=flat-square)](http://weibo.com/chunqiang)
 
 
