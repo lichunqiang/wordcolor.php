@@ -1,0 +1,38 @@
+{
+  "name": "light/wordcolor",
+  "description": "generate color from the word.",
+  "keywords": [
+    "rgb",
+    "words",
+    "color"
+  ],
+  "homepage": "https://github.com/light/wordcolor",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lichunqiang",
+      "email": "light-li@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "light\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "light\\tests\\": "tests"
+    }
+  },
+  "scripts": {
+    "test": [
+      "php ./vendor/bin/phpunit"
+    ]
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  }
+}
