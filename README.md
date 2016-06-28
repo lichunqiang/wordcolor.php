@@ -48,6 +48,12 @@ Change Log
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
+Related
+-------
+
+* [word-color](https://github.com/afc163/word-color) - javascript version, which is the original fork
+* [wordcolor.go](https://github.com/lichunqiang/wordcolor.go) - GoLang version.
+
 License
 -------
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
